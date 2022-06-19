@@ -9,7 +9,7 @@ class files as implementation to the API.
 
 Programmers uses this API, while different databases provides
 different implementation to the API by their needs,
-makeing JDBC universal to databases.
+making JDBC universal to databases.
 
 As a programmer, we only need to learn how to use the JDBC API
 and not to worry about how are they implemented by different databases.
